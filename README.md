@@ -1,6 +1,6 @@
 # 👩‍💻 About me
 
-Hola, soy María, tengo 19 años y soy estudiante de informática y programación, con interés en el desarrollo de aplicaciones, los videojuegos y el contenido digital.
+Hola, soy María, tengo 20 años y soy estudiante de informática y programación, con interés en el desarrollo de aplicaciones, los videojuegos y el contenido digital.
 
 He finalizado un Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes, donde adquirí formación en sistemas, soporte técnico y mantenimiento de equipos.  
 Actualmente estoy cursando un Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma, con especialización en videojuegos y ocio digital, con el objetivo de desarrollarme profesionalmente como programadora.
